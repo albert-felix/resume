@@ -24,22 +24,18 @@ const Education = () => {
       </div>
       <div className="education">
         <h6>HSC - 94 %</h6>
-        <p className="edu-ins">School of Architecture and Planning, Anna University</p>
         <div className="edu-year">
-        <p>2016 - 2018</p>
-        <p>Chennai</p>
+        <p>2012</p>
+        <p>Ariyalur</p>
         </div>
-        <p className="cgpa">CGPA - 7.0</p>
       </div>
       
       <div className="education">
         <h6>SSLC - 93.6 %</h6>
-        <p className="edu-ins">School of Architecture and Planning, Anna University</p>
         <div className="edu-year">
-        <p>2016 - 2018</p>
-        <p>Chennai</p>
+        <p>2010</p>
+        <p>Ariyalur</p>
         </div>
-        <p className="cgpa">CGPA - 7.5</p>
       </div>
     </div>
   );
