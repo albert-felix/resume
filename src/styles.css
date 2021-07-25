@@ -12,16 +12,21 @@
 }
 
 hr {
-  border: 1px solid #13ACDA;
+  border: 1px solid #13acda;
   margin-top: 0;
 }
 
 h6 {
   font-weight: bold;
-  margin: 0;
 }
 
-.education, .project{
+.subtitle {
+  margin: 0;
+  /* margin-top: 10px; */
+}
+
+.education,
+.project {
   margin-bottom: 10px;
 }
 
@@ -32,18 +37,21 @@ h6 {
 .edu-year {
   display: flex;
   justify-content: space-between;
-  color: #13ACDA;
-  font-size: small
+  color: #13acda;
+  font-size: small;
 }
 
-.edu-year p{
+.edu-year p {
   margin: 0;
 }
 
 .cgpa {
   font-size: 15px;
   font-weight: bold;
-  color: #13ACDA;
+  color: #13acda;
   margin: 0;
 }
 
+.location {
+  padding-right: 50px;
+}
